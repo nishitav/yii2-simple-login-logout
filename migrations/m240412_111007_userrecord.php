@@ -14,8 +14,8 @@ class m240412_111007_userrecord extends Migration
     {
         $this->insert('users', [
             'id' => 1,
-            'email' => 'user@example.com',
-            'password' => '$2y$13$7Q5uYxNdmG/CqxWnuXZbUOQoWuj7FZ8X0g4qhm6T3dCOKRvtzyOnW', // text is password
+            'email' => 'vadhwananishit@gmail.com',
+            'password' => '$2y$10$.vGA1O9wmRjrwAVXD98HNOgsNpDczlqm3Jq7KnEd1rVAGv3Fykk1a', // text is rasmuslerdorf
             'password_reset_token' => null,
             'last_login_at' => '2024-04-12 08:00:00',
             'registration_ip' => '127.0.0.1',

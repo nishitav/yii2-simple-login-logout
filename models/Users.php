@@ -51,7 +51,7 @@ class Users extends ActiveRecord implements IdentityInterface {
      */
     public function attributeLabels() {
         return [
-            'user_id' => 'User ID',
+            'id' => 'User ID',
             'email' => 'Email',
             'password' => 'Password',
             'password_reset_token' => 'Password Reset Token',
